@@ -2,10 +2,9 @@
     "name": "cueblocks/magento2-first-module",
     "description": "Magento 2 First Composer Module!",
     "require": {
-        "magento/project-community-edition": "*"
+        "magento/framework": "*"
     },
     "type": "magento2-module",
-    "minimum-stability": "alpha",
     "version": "1.0.0",
     "extra": {
         "map": [
