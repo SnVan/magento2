@@ -5,12 +5,13 @@
         "magento/project-community-edition": "*"
     },
     "type": "magento2-module",
+    "minimum-stability": "alpha",
     "version": "1.0.0",
     "extra": {
         "map": [
             [
                 "*",
-                "Cueblocks/FirstModule/"
+                "Cueblocks/FirstModule"
             ]
         ]
     },
