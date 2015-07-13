@@ -1,0 +1,25 @@
+{
+    "name": "cueblocks/magento2-first-module",
+    "description": "Magento 2 First Composer Module!",
+    "require": {
+        "magento/project-community-edition": "*"
+    },
+    "type": "magento2-module",
+    "minimum-stability": "dev",
+    "version": "1.0.0",
+    "extra": {
+        "map": [
+            [
+                "*",
+                "Cueblocks/FirstModule/"
+            ]
+        ]
+    },
+    "authors": [
+        {
+            "name": "Suneet Kumar",
+            "homepage": "http://cueblocks.com/",
+            "role": "Developer"
+        }
+    ]
+}
